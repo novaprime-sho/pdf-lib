@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@types/node": "^22.0.0",
+    "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.15.0"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "start": "tsc && node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
